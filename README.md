@@ -1,6 +1,10 @@
-# Pygame Space Shooter Game
+# Space Shooter Game
 
 A 2D space shooter game built with Pygame where players battle against enemies while collecting power-ups and managing helper units.
+
+<p align="center">
+  <img src="assets/vid.gif" width="500">
+</p>
 
 ## Project Structure
 
